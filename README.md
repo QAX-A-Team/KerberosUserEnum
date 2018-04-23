@@ -1,5 +1,5 @@
 # KerberosUserEnum
-Kerberos accounts enumeration taking advantage of AS-REQ
+Kerberos accounts enumeration taking advantage of AS-REQ, I wrote this script to practice my understanding of Kerberos.
 
 https://www.attackdebris.com/?p=311
 
